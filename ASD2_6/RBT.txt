@@ -1,0 +1,5 @@
+	1e3	2e3	3e3	4e3	5e3	6e3	7e3	8e3	9e3	1e4	2e4	3e4	4e4	5e4	6e4	7e4	8e4	9e4	1e5	2e5	3e5	4e5	5e5	6e5	7e5	8e5	9e5	1e6	2e6	3e6	4e6	5e6	6e6	7e6	8e6	9e6	1e7	2e7	3e7	4e7	5e7	
+insert:	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.002ms	0.001ms	
+erase:	0.001ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.002ms	0.001ms	0.001ms	
+find:	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	0.001ms	
+getSorted:	0.073ms	0.075ms	0.108ms	0.14ms	0.173ms	0.209ms	0.241ms	0.279ms	0.325ms	0.359ms	0.767ms	1.285ms	1.702ms	2.2ms	2.467ms	3.145ms	3.364ms	3.914ms	4.268ms	12.651ms	24.935ms	35.387ms	49.868ms	60.995ms	74.219ms	91.125ms	158.295ms	140.717ms	266.757ms	404.701ms	556.318ms	693.47ms	871.669ms	998.01ms	1202.87ms	1405.8ms	1484.09ms	
